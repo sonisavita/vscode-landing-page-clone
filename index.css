@@ -256,14 +256,14 @@ a:active {
 
 .grid-agent {   
     display: grid;
-    grid-template-columns: 350px 850px;
-    gap: 80px;
+    grid-template-columns: auto 850px;
+    gap: 40px;
     align-items: start;
     margin-inline: auto;
     margin-top: 20px;
     width: 1200px;
-    height: 700px;
-    padding: 10px;  
+    height: auto;
+    padding: 20px;  
 }
 
 .grid-agent > div { 
