@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "week-1-website",
+  "version": "1.0.0",
+  "description": "It’s a clone of the official [Visual Studio Code landing page](https://code.visualstudio.com/), built as my **first assignment**.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonisavita/vscode-landing-page-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonisavita/vscode-landing-page-clone/issues"
+  },
+  "homepage": "https://github.com/sonisavita/vscode-landing-page-clone#readme"
+}
